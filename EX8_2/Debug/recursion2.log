@@ -1,0 +1,4 @@
+﻿  Source.cpp
+d:\whitworth\summer2019\recursiontutorials\recursiontutorials\ex8_2\source.cpp(25): warning C4018: '<': signed/unsigned mismatch
+d:\whitworth\summer2019\recursiontutorials\recursiontutorials\ex8_2\source.cpp(67): warning C4018: '<': signed/unsigned mismatch
+  recursion2.vcxproj -> D:\Whitworth\Summer2019\RecursionTutorials\RecursionTutorials\EX8_2\Debug\recursion2.exe
